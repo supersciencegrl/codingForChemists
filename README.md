@@ -18,5 +18,5 @@ Resources for and by the #codingForChemists Discord community!
 # Contents
 - 
 
-### The details
+
 Very little in this repo will have been made by me [supersciencegrl](https://github.com/supersciencegrl/)! 
