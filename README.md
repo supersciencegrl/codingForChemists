@@ -11,6 +11,8 @@ This work is licensed under a
 # codingForChemists
 Resources for and by the #codingForChemists Discord community! 
 
+If you are interested in joining the community, please contact me directly through [my website](https://supersciencegrl.co.uk)! 
+
 ### Put your spin on the repo! 
 - Submit a **pull request** to submit your content to be added to the repo. Content should be suitable for beginner or intermediate-level coders, and aimed at chemists
 - The **Issues** tab is our wish list. Please submit things you want to see to Issues, or if you see a problem in our published content
