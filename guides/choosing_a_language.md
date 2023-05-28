@@ -148,7 +148,7 @@ Python has the advantage of being useful in many contexts beyond data science. H
 Other considerations:
 
 - Julia 
-- [SQL(structured query language)](https://en.wikipedia.org/wiki/SQL): 
+- [SQL (structured query language)](https://en.wikipedia.org/wiki/SQL): 
   If you find yourself needing to work with databases, adding some SQL knowledge on top of your preferred programming language will be useful. 
 - See also 
   [this article on Codecademy](https://www.codecademy.com/resources/blog/data-science-languages/) 
