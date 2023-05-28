@@ -20,7 +20,7 @@ If you are interested in joining the community, please contact me directly throu
 # Contents
 ## Guides folder
 ### How to choose a language (for chemists and the chemistry-adjacent)
-[https://github.com/supersciencegrl/codingForChemists/blob/main/guides/choosing_a_language.md](choosing_a_language.md)
+[https://github.com/supersciencegrl/codingForChemists/blob/main/guides/choosing_a_language.md](guides/choosing_a_language.md)
 <br>How to choose a language, for whichever use case(s) you are interested in, for example:
 - General purpose programming languages
 - Data collection, cleaning, processing, and visualization
@@ -31,7 +31,7 @@ If you are interested in joining the community, please contact me directly throu
 - Web programming
 - GUI applications
 ### How to install Python and create environments
-[https://github.com/supersciencegrl/codingForChemists/blob/main/guides/python_environment_setup.md](python_environment_setup.md)
+[https://github.com/supersciencegrl/codingForChemists/blob/main/guides/python_environment_setup.md](guides/python_environment_setup.md)
 - Why Python environments?
 - Option 1: Installing Anaconda or Miniconda
 - Option 2: Installing Python from python.org
