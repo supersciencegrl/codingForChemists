@@ -15,9 +15,24 @@ If you are interested in joining the community, please contact me directly throu
 ### Put your spin on the repo! 
 - Submit a [**pull request**](https://github.com/supersciencegrl/codingForChemists/pulls) to submit your content to be added to the repo. Content should be suitable for beginner or intermediate-level coders, and aimed at chemists
 - The [**Issues**](https://github.com/supersciencegrl/codingForChemists/issues) tab is our wish list. Please submit things you want to see here, or point (with sufficient detail) to any problems in our published content
+- Very little in this repo will have been made by me [supersciencegrl](https://github.com/supersciencegrl/)! 
 
 # Contents
-- 
-
-
-Very little in this repo will have been made by me [supersciencegrl](https://github.com/supersciencegrl/)! 
+## Guides folder
+### How to choose a language (for chemists and the chemistry-adjacent)
+[https://github.com/supersciencegrl/codingForChemists/blob/main/guides/choosing_a_language.md](choosing_a_language.md)
+<br>How to choose a language, for whichever use case(s) you are interested in, for example:
+- General purpose programming languages
+- Data collection, cleaning, processing, and visualization
+- Machine learning and artificial intellignece
+- Systems programming & scripting
+- Instruments & devices
+- Numerical computation
+- Web programming
+- GUI applications
+### How to install Python and create environments
+[https://github.com/supersciencegrl/codingForChemists/blob/main/guides/python_environment_setup.md](python_environment_setup.md)
+- Why Python environments?
+- Option 1: Installing Anaconda or Miniconda
+- Option 2: Installing Python from python.org
+- Other options
